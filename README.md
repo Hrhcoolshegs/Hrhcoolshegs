@@ -12,16 +12,16 @@ I'm a Product Manager at **Optimus AI Labs** and **Head of Product & Co-Founder*
 - 🛠️ Co-founded Emicraft Tech - building Djuix, a no-code API platform that reduces dev time by 60%
 - 💡 Delivered $1.5M+ enterprise projects across banking, healthcare, retail & manufacturing
 - 🤖 Deep into prompt engineering, AI model integration, and machine learning applications
-- ✍️ Published author of "A Song of Train Wreck" (available on [Amazon](https://www.amazon.com/dp/B084FCLDJ2))
+- ✍️ Dropped out of AltSchool in year 2, Published author of "A Song of Train Wreck" (available on [Amazon](https://www.amazon.com/dp/B084FCLDJ2))
 - 📝 Writing product management insights on [Medium](https://oluwasegunakinshola.medium.com)
 - 🎓 IBM AI Product Manager certified | Google Project Management certified
-- 🎯 Goal: Technical Program Manager at Google or Paystack
+- 🎯 Goal: Retire in 10 years and dedicate myself to vibe-coding products with real life applications
 
 ### 💼 What I Do
 
 ```yaml
 current_role: Product Manager @ Optimus AI Labs
-side_hustle: Head of Product & Co-Founder @ Emicraft Tech Solutions
+trenches_dream: Head of Product & Co-Founder @ Emicraft Tech Solutions
 specialties:
   - AI Product Development & Strategy
   - Prompt Engineering & AI Model Integration
