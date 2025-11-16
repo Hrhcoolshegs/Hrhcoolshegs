@@ -41,7 +41,7 @@ vibe: "Code meets Strategy meets AI"
 ### 🔥 Featured Projects
 
 #### [Djuix.io](https://djuix.io) - AI-Powered API Development Platform
-Co-founded and leading product development for a no-code API platform that automates Django project setup with AI-powered code generation. Reduces API development time by 60%.
+Co-founded and leading product development for an AI-powered platform that eliminates backend development headaches and helps you build production-ready APIs through simple conversation.
 
 #### [AmplifyMessage](https://amplifymessage.netlify.app) - AI Message & Music Platform
 Built an AI-powered platform pairing meaningful messages with curated songs in shareable links. Achieved 100 users in first 48 hours.
