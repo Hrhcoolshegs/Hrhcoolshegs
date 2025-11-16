@@ -15,7 +15,7 @@ I'm a Product Manager at **Optimus AI Labs** and **Head of Product & Co-Founder*
 - ✍️ Dropped out of AltSchool in year 2, Published author of "A Song of Train Wreck" (available on [Amazon](https://www.amazon.com/dp/B084FCLDJ2))
 - 📝 Writing product management insights on [Medium](https://oluwasegunakinshola.medium.com)
 - 🎓 IBM AI Product Manager certified | Google Project Management certified
-- 🎯 Goal: Retire in 10 years and dedicate myself to vibe-coding products with real life applications
+- 🎯 Goal: Retire in 15 years and dedicate myself to vibe-coding products with real life applications
 
 ### 💼 What I Do
 
@@ -46,29 +46,29 @@ Co-founded and leading product development for a no-code API platform that autom
 #### [AmplifyMessage](https://amplifymessage.netlify.app) - AI Message & Music Platform
 Built an AI-powered platform pairing meaningful messages with curated songs in shareable links. Achieved 100 users in first 48 hours.
 
-#### [QRThis](https://qrthis.netlify.app) - Smart QR Code Generator
+#### [QRThis](https://qrthis.vercel.app/) - Smart QR Code Generator
 React-based application with AI-driven text optimization, brand customization, and context-aware suggestions.
 
 ### 📊 Impact Highlights
 
 - 📈 Doubled app downloads in 90 days through product strategy refinement
 - 💰 Managed projects exceeding ₦800M with 90% on-time delivery
-- ⚡ Reduced risk exposure by 25% for FCMB's risk management systems
+- ⚡ Reduced risk exposure by 25% for a Tier 2 commercial Bank's risk management systems
 - 📉 Cut website bounce rate by 44% using targeted content strategies
 - 🎯 Improved sprint velocity by 40% leading cross-functional teams of 53+
 - 🏆 Awarded $5,000 Mixpanel Credit for analytics excellence
 
 ### 🎓 Current Learning Journey
 
-- 🔬 Software Development Lifecycle Specialization (University of Minnesota)
+- 🔬 Software Development Lifecycle Specialization (University of Minnesota via Coursera)
 - 🤖 Continuously exploring cutting-edge AI/ML technologies
 - 📚 Writing about product roadmapping and strategy on Medium
 
 ### 📝 Recent Writing
 
-- [Debunking the Myth: Why Your Product Roadmap Shouldn't Be Static](https://medium.com)
-- [Keeping Your Roadmap Agile and Effective](https://medium.com)
-- [Aligning Your Roadmap with Strategic Business Objectives](https://medium.com)
+- [Debunking the Myth: Why Your Product Roadmap Shouldn't Be Static](https://medium.com/design-bootcamp/product-roadmapping-part-1-e9776a6aea20)
+- [Keeping Your Roadmap Agile and Effective](https://medium.com/design-bootcamp/product-roadmapping-part-2-fa1c4b2abf3e)
+- [Aligning Your Roadmap with Strategic Business Objectives](https://medium.com/design-bootcamp/product-roadmapping-part-3-the-finale-51bb2f039f5d)
 
 ### 🤝 Open to Collaborate On
 
